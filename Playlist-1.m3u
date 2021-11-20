@@ -1,0 +1,153 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="RCTI ONLY" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png",RCTI TV
+https://goldenlivektv.com/Kang.Surya/Channel_Rctimetube.m3u8
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RcdSXmC65OE7ufo2zh6_hHBr1zsKachCCA&usqp=CAU" group-desc="channel mati? laporkan ke grup telegram @iptv_id" group-title="Local", MNCTV
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+#EXTINF:-1 tvg-id="Erz.gtv" tvg-logo="https://pbs.twimg.com/profile_images/1346771276317085696/N5bjSnvm_400x400.jpg" group-title="Local", GTV
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+#EXTINF:-1,NET TV
+http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1,CNN 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1,TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
+#EXTINF:-1,DAAI TV
+http://210.210.155.35/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1,BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1,RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1,TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1,RTV
+http://210.210.155.35/session/0c55f20a-0998-11ea-875c-b82a72d63267/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1,CNN TV
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384000_sleng.m3u8
+#EXTINF:-1,INDOSIAR
+http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1,EBS TV
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+#EXTINF:-1,BERITA SATU HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1,thrill HD
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1,K+
+http://rr.dens.tv/h/h08/index2.m3u8
+#EXTINF:-1,TV IKIM
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1,AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1,CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1,CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1,(ID) TVRI NASIONAL
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#EXTINF:-1,(ID) TVRI OLAHRAGA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1,(ID) TVRI ACEH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
+#EXTINF:-1,(ID) TVRI SUMATERA UTARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
+#EXTINF:-1,(ID) TVRI SUMATERA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
+#EXTINF:-1,(ID) TVRI SUMATERA SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
+#EXTINF:-1,(ID) TVRI RIAU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
+#EXTINF:-1,(ID) TVRI JAMBI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
+#EXTINF:-1,(ID) TVRI BANGKA BELITUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8
+#EXTINF:-1,(ID) TVRI BENGKULU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
+#EXTINF:-1,(ID) TVRI LAMPUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
+#EXTINF:-1,(ID) TVRI DKI JAKARTA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
+#EXTINF:-1,(ID) TVRI JAWA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
+#EXTINF:-1,(ID) TVRI JAWA TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
+#EXTINF:-1,(ID) TVRI JAWA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
+#EXTINF:-1,(ID) YOGYAKARTA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
+#EXTINF:-1,(ID) TVRI BALI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
+#EXTINF:-1,(ID) TVRI NUSA TENGGARA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
+#EXTINF:-1,(ID) TVRI NUSA TENGGARA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
+#EXTINF:-1,(ID) TVRI KALIMANTAN BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
+#EXTINF:-1,(ID) TVRI KALIMANTAN TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+#EXTINF:-1,(ID) TVRI KALIMANTAN TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
+#EXTINF:-1,(ID) TVRI KALIMANTAN SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+#EXTINF:-1,(ID) TVRI SULAWESI SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
+#EXTINF:-1,(ID) TVRI SULAWESI BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
+#EXTINF:-1,(ID) TVRI SULAWESI TENGGARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
+#EXTINF:-1,(ID) TVRI SULAWESI TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
+#EXTINF:-1,(ID) TVRI SULAWESI UTARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
+#EXTINF:-1,(ID) TVRI GORONTALO
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
+#EXTINF:-1,(ID) TVRI MALUKU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
+#EXTINF:-1,(ID) TVRI PAPUA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-country="MY" tvg-language="English" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO Malaysia (720p)
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" ,CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" ,oh!k
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" ,HGTV 
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1,CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jyKgLhq/20200225-092529.png" group-title="INDONESIA HD", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="INDONESIA HD", TVRI
+http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/68_144.png" group-title="INDONESIA HD", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="INDONESIA HD", Berita Satu HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="INDONESIA HD",TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="INDONESIA HD",TRANS 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="INDONESIA HD",THE INDONESIA CHANNEL
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+#EXTINF:-1 TVG-LOGO="https://i.postimg.cc/65P4gJ9n/sinema-indonesia.jpg" group-title="INDONESIA HD",SINEMA INDONESIA
+http://210.210.155.35/session/589abc60-fb25-11eb-82e0-c81f66f89318/uq2663/h/h155/index2.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN.pl" group-title="Drama",TVN
+http://rr1.dens.tv/h/h20/01.m3u8
+#EXTINF:-1 tvg-id="AnimaxIndonesianSub.kr" tvg-name="Animax [Indonesian Sub]" tvg-country="KR" tvg-language="" tvg-logo="" group-title="",Animax [Indonesian Sub]
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-id="AniPlus.kr" tvg-name="AniPlus" tvg-country="KR" tvg-language="" tvg-logo="" group-title="",AniPlus (Malay subtitles) (576p)
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-id="Arirang.kr" tvg-name="Arirang" tvg-country="KR" tvg-language="Korean" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090001.png" group-title="",Arirang (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="arirang1.kr" tvg-name="arirang 1" tvg-country="KR" tvg-language="" tvg-logo="" group-title="",arirang 1
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+#EXTINF:-1 tvg-id="ArirangHD.kr" tvg-name="Arirang HD" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="",Arirang HD (1080p)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KPlus.kr" tvg-name="K+" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/4DEUpdm.jpg" group-title="",K+ (576p)
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="One.kr" tvg-name="One" tvg-country="KR" tvg-language="" tvg-logo="" group-title="",One (Indonesian Sub)
+http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/02.m3u8
+#EXTINF:-1 tvg-id="tvNAsia.kr" tvg-name="tvN Asia" tvg-country="KR" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-asia-kr.png" group-title="",tvN Asia
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
